@@ -40,6 +40,6 @@ The general logic is to detect edges by applying a mask to the red color, to be 
 
 [Link to test videos](https://drive.google.com/drive/folders/1rCbAXBiJW5SK8wu499-4-jmYV4QqZ0oP?usp=sharing)
 
-Authors: [Linkedin by Hüseyin BULAT](https://tr.linkedin.com/in/hasan-h%C3%BCseyin-bulat-1a2208170?trk=public_profile_samename-profile) 
+Authors: [Linkedin by Alperen Atakan Kara](https://www.linkedin.com/in/alperen-atakan-kara-671846216)
 
-[Linkedin by Alperen Atakan Kara](https://www.linkedin.com/in/alperen-atakan-kara-671846216)
+[Linkedin by Hüseyin BULAT](https://tr.linkedin.com/in/hasan-h%C3%BCseyin-bulat-1a2208170?trk=public_profile_samename-profile) 
